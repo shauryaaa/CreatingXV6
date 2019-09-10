@@ -1,4 +1,5 @@
 # CreatingXV6
+# open the read me file
 how to download XV6 on a windows system
 
 
